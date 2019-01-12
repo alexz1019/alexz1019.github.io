@@ -1895,8 +1895,8 @@ body {
   background: linear-gradient(to left, #554346, #45505b) !important;
 }
 .cid-reV0aVWgew {
-  padding-top: 15px;
-  padding-bottom: 15px;
+  padding-top: 30px;
+  padding-bottom: 30px;
   background-color: #e4d295;
 }
 .cid-reV0aVWgew .mbr-section-subtitle {
@@ -1918,7 +1918,7 @@ body {
 .cid-reUXvI0Pe0 {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #efefef;
+  background-color: #879a9f;
 }
 .cid-reUXvI0Pe0 .card-box {
   padding: 0 2rem;
@@ -1957,8 +1957,8 @@ body {
 }
 .cid-qTkAaeaxX5 {
   padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #2e2e2e;
+  padding-bottom: 120px;
+  background-image: url("../../../assets/images/dsc-2746-2000x1330.jpg");
 }
 @media (max-width: 767px) {
   .cid-qTkAaeaxX5 .content {
@@ -2021,4 +2021,7 @@ body {
     justify-content: center;
     -webkit-justify-content: center;
   }
+}
+.cid-qTkAaeaxX5 P {
+  color: #ff3366;
 }
