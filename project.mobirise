@@ -35,7 +35,7 @@
     "uniqCompNum": 6,
     "versionPublish": "4.8.10",
     "screenshot": "screenshot.png",
-    "favicon": "@PROJECT_PATH@/assets/images/img-20190112-1529521-128x90.png",
+    "favicon": "@PROJECT_PATH@/assets/images/2000px-aperture-science.svg-128x128.png",
     "noImageResize": ""
   },
   "pages": {
