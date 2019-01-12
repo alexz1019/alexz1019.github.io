@@ -1226,7 +1226,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/dsc-7187-2000x1330.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
@@ -1279,7 +1279,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/dsc-1217-2000x1330.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
