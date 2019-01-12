@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Lo Pak Him Portfolio Website",
-    "currentPage": "www.alexzportfolio.html",
+    "currentPage": "alexzportfolio.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -39,7 +39,7 @@
     "noImageResize": ""
   },
   "pages": {
-    "www.alexzportfolio.html": {
+    "alexzportfolio.html": {
       "settings": {
         "main": true,
         "title": "Welcome",
