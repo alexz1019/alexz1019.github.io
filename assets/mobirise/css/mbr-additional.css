@@ -2239,6 +2239,21 @@ body {
 .cid-reUXvI0Pe0 .card-title {
   text-align: center;
 }
+.cid-rruMXgBoe6 {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background: linear-gradient(45deg, #767676, #f7ed4a);
+}
+@media (min-width: 992px) {
+  .cid-rruMXgBoe6 .mbr-figure {
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-rruMXgBoe6 .mbr-figure {
+    padding-top: 3rem;
+  }
+}
 .cid-qTkAaeaxX5 {
   padding-top: 60px;
   padding-bottom: 120px;
